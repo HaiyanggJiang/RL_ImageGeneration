@@ -1,10 +1,16 @@
 # RL_ImageGeneration
 Collect work that uses **reinforcement learning** to perform  **image generation** tasks
 *********************************************************************************************************
+**RL4Med-DDPO: Reinforcement Learning for Controlled Guidance Towards Diverse Medical Image Generation using Vision-Language Foundation Models**
+  <br>-time:2025
+  <br>-paper:https://arxiv.org/pdf/2503.15784
+  <br>-code:none
+  <br>-periodical:none
+*********************************************************************************************************
 **Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards**
   <br>-time:2025
   <br>-paper:[https://arxiv.org/pdf/2503.15784](https://arxiv.org/pdf/2503.11240)
-  <br>-code:[none](https://github.com/hu-zijing/B2-DiffuRL)
+  <br>-code:https://github.com/hu-zijing/B2-DiffuRL
   <br>-periodical:CVPR 2025
 ************************************************************************************************************************************
 **RL4Med-DDPO: Reinforcement Learning for Controlled Guidance Towards Diverse Medical Image Generation using Vision-Language Foundation Models**
