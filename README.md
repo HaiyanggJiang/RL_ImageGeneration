@@ -58,7 +58,7 @@ Collect work that uses **reinforcement learning** to perform  **image generation
 **Training Diffusion Models with Reinforcement Learning**
     <br>-time:2023
     <br>-paper:[https://arxiv.org/pdf/2007.09923](https://arxiv.org/pdf/2305.13301)
-    <br>-code:http://rl-diffusion.github.io
+    <br>-code:[http://rl-diffusion.github.io](https://github.com/kvablack/ddpo-pytorch)
     <br>-periodical: none
 ************************************************************************************************************************************
 **Reinforcing Generated Images via Meta-learning for One-Shot Fine-Grained Visual Recognition**
