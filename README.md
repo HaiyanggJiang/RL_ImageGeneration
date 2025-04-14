@@ -1,11 +1,11 @@
 # RL_ImageGeneration
 Collect work that uses **reinforcement learning** to perform  **image generation** tasks
 *********************************************************************************************************
-**RL4Med-DDPO: Reinforcement Learning for Controlled Guidance Towards Diverse Medical Image Generation using Vision-Language Foundation Models**
-  <br>-time:2025
-  <br>-paper:https://arxiv.org/pdf/2503.15784
-  <br>-code:none
-  <br>-periodical:none
+**D3PO:Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model**
+  <br>-time:2024
+  <br>-paper:[https://arxiv.org/pdf/2503.15784](https://arxiv.org/abs/2311.13231)
+  <br>-code:[https://github.com/yk7333/D3PO/tree/main](https://github.com/yk7333/D3PO/tree/main)
+  <br>-periodical:CVPR2024
 *********************************************************************************************************
 **Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards**
   <br>-time:2025
@@ -55,11 +55,17 @@ Collect work that uses **reinforcement learning** to perform  **image generation
     <br>-code:none
     <br>-periodical:none
 ************************************************************************************************************************************
-**Training Diffusion Models with Reinforcement Learning**
+**DDPO:Training Diffusion Models with Reinforcement Learning**
     <br>-time:2023
     <br>-paper:[https://arxiv.org/pdf/2007.09923](https://arxiv.org/pdf/2305.13301)
     <br>-code:[http://rl-diffusion.github.io](https://github.com/kvablack/ddpo-pytorch)
     <br>-periodical: none
+************************************************************************************************************************************
+**DPOK: Reinforcement Learning for Fine-tuning Text-to-Image Diffusion Models**
+    <br>-time:2023
+    <br>-paper:[https://arxiv.org/pdf/2007.09923](https://arxiv.org/abs/2305.16381)
+    <br>-code:https://github.com/google-research/google-research/tree/master/dpok
+    <br>-periodical:NeurIPS 2023
 ************************************************************************************************************************************
 **Reinforcing Generated Images via Meta-learning for One-Shot Fine-Grained Visual Recognition**
     <br>-time:2023
