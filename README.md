@@ -1,12 +1,12 @@
 # RL_ImageGeneration
 Collect work that uses **reinforcement learning** to perform  **image generation** tasks
-*********************************************************************************************************
-**D3PO:Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model**
-  <br>-time:2024
-  <br>-paper:[https://arxiv.org/pdf/2503.15784](https://arxiv.org/abs/2311.13231)
-  <br>-code:[https://github.com/yk7333/D3PO/tree/main](https://github.com/yk7333/D3PO/tree/main)
-  <br>-periodical:CVPR2024
-*********************************************************************************************************
+Towards Scalable Human-aligned Benchmark for Text-guided Image Editing
+**Towards Scalable Human-aligned Benchmark for Text-guided Image Editing**
+  <br>-time:2025
+  <br>-paper:https://arxiv.org/pdf/2505.00502
+  <br>-code:[https://github.com/hu-zijing/B2-DiffuRL](https://github.com/SuhoRyu/HATIE)
+  <br>-periodical:CVPR 2025
+************************************************************************************************************************************
 **Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards**
   <br>-time:2025
   <br>-paper:[https://arxiv.org/pdf/2503.15784](https://arxiv.org/pdf/2503.11240)
