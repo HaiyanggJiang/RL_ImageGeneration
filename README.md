@@ -1,10 +1,11 @@
 # RL_ImageGeneration
 Collect work that uses **reinforcement learning** to perform  **image generation** tasks
 Towards Scalable Human-aligned Benchmark for Text-guided Image Editing
+************************************************************************************************************************************
 **Towards Scalable Human-aligned Benchmark for Text-guided Image Editing**
   <br>-time:2025
   <br>-paper:https://arxiv.org/pdf/2505.00502
-  <br>-code:[https://github.com/hu-zijing/B2-DiffuRL](https://github.com/SuhoRyu/HATIE)
+  <br>-code:https://github.com/SuhoRyu/HATIE
   <br>-periodical:CVPR 2025
 ************************************************************************************************************************************
 **Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards**
